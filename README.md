@@ -110,9 +110,13 @@ I explore AI-powered tools to support my learning and development process.
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikripto/ikripto/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikripto/ikripto/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ikripto/ikripto/output/snake.svg">
+  </picture>
+</div>
 
 ---
 
