@@ -21,6 +21,23 @@
 </p>
 
 ---
+# 🌷 Meet the Developer
+
+<p align="justify">
+  <img src="YOUR_FEMALE_CARTOON_IMAGE_URL" align="right" width="250" alt="Female Developer Cartoon"/>
+
+I'm <b>Maryam Rasheed</b>, a student at the <b>University of Sargodha</b>, currently pursuing a <b>BS in Urdu</b>. Alongside my university studies, I'm learning <b>Web Development</b> and exploring the exciting world of <b>Artificial Intelligence (AI)</b>.
+
+I work with <b>HTML, CSS, JavaScript, PHP, and MySQL</b>, using <b>Visual Studio Code</b> for coding and development. I'm also exploring advanced AI tools and modern technologies to enhance my creativity, improve my workflow, and discover innovative ways to build websites.
+
+I believe in continuous learning, creative thinking, and using technology to turn ideas into reality.
+
+<br/><br/>
+
+<b>✨ Learning with Curiosity. Creating with Creativity. Growing with Technology. ✨</b>
+</p>
+
+<br clear="all"/>
 
 # 🌟 About Me
 
