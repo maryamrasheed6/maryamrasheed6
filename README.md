@@ -57,7 +57,7 @@ I believe that learning is a continuous journey, and I enjoy exploring new techn
 
 ---
 
-## 💻 My Tech Stack
+## 💻 My Tech and skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode&perline=6" alt="HTML CSS JavaScript PHP MySQL VS Code"/>
